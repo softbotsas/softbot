@@ -121,7 +121,7 @@ const services = ref([
     keyFeatures: [
       'Diseño de arquitecturas Cloud-Native.',
       'Orquestación de Contenedores (Kubernetes, Docker Swarm).',
-      'Infraestructura como Código (Terraform, CloudFormation).',
+      'Infraestructura como Código (Terraform, CloudFormation)',
       'Monitorización y Alertas proactivas (Prometheus, Grafana).',
       'Optimización de costos en la nube (FinOps).'
     ],
