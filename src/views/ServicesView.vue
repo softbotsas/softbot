@@ -143,26 +143,9 @@ const services = ref([
       'Análisis predictivo y sistemas de recomendación.'
     ],
     technologies: ['Python (TensorFlow, PyTorch, Scikit-learn)', 'R', 'AWS SageMaker', 'Azure ML', 'Dialogflow', 'UiPath'],
-    imageSrc: '/images/services/ia-automatizacion.png', // Reemplazar con imagen
+    imageSrc: '/images/ia.jpg', // Reemplazar con imagen
     ctaLink: '/contacto?servicio=ia-automatizacion'
   },
-  {
-    id: 4,
-    slug: 'ciberseguridad',
-    title: 'Ciberseguridad & DevSecOps',
-    icon: 'fas fa-shield-alt',
-    detailedDescription: 'Protegemos tus activos digitales integrando la seguridad en cada etapa del ciclo de vida del software (DevSecOps). Realizamos auditorías, pentesting y diseñamos arquitecturas seguras para mitigar riesgos y cumplir con normativas.',
-    keyFeatures: [
-      'Auditorías de seguridad y análisis de vulnerabilidades.',
-      'Pruebas de penetración (Pentesting).',
-      'Implementación de pipelines DevSecOps seguros.',
-      'Gestión de Identidad y Acceso (IAM).',
-      'Cumplimiento normativo (GDPR, ISO 27001).'
-    ],
-    technologies: ['OWASP', 'NIST Framework', 'SIEM', 'WAF', 'Kali Linux', 'Metasploit', 'Vault', 'SAST/DAST Tools'],
-    imageSrc: '/images/services/ciberseguridad.png', // Reemplazar con imagen
-    ctaLink: '/contacto?servicio=ciberseguridad'
-  }
 ]);
 
 const processSteps = ref([

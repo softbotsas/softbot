@@ -96,7 +96,7 @@ const otherProjects = ref([
     type: 'Aplicación Web y Móvil',
     description: 'Sistema integral para la administración, seguimiento y análisis de gastos personales y empresariales. Backend en Laravel y frontend en Angular.',
     technologies: ['Angular', 'Laravel', 'MySQL', 'PWA'],
-    imageSrc: '/images/projects/budgetbuddy-cover.png', // Reemplazar
+    imageSrc: '/images/budget.png', // Reemplazar
     liveLink: '#demo-budgetbuddy',
     repoLink: '#github-budgetbuddy'
   },
@@ -106,7 +106,7 @@ const otherProjects = ref([
     type: 'Plataforma E-commerce B2B',
     description: 'Sitio web de comercio electrónico para la distribución mayorista de componentes y equipos de cómputo.',
     technologies: ['Vue.js', 'API REST', 'Pasarela de Pagos'],
-    imageSrc: '/images/projects/consmopc-cover.png', // Reemplazar
+    imageSrc: '/images/consmo.png', // Reemplazar
     liveLink: '#', // Reemplazar
     repoLink: null
   },
@@ -116,7 +116,7 @@ const otherProjects = ref([
     type: 'Sitio Web Corporativo y Logística',
     description: 'Página web para empresa de envíos y paquetería, con funcionalidades de cotización y seguimiento.',
     technologies: ['HTML5', 'CSS3', 'JavaScript', 'PHP'],
-    imageSrc: '/images/projects/tucaja-cover.png', // Reemplazar
+    imageSrc: '/images/tucaja.png', // Reemplazar
     liveLink: '#', // Reemplazar
     repoLink: null
   },
@@ -126,7 +126,7 @@ const otherProjects = ref([
     type: 'Sitio Web Informativo y Donaciones',
     description: 'Plataforma web para fundación sin fines de lucro, enfocada en la difusión de su misión y la captación de donaciones.',
     technologies: ['WordPress', 'Responsive Design', 'Integración Donaciones'],
-    imageSrc: '/images/projects/semillaszoe-cover.png', // Reemplazar
+    imageSrc: '/images/fundacion.png', // Reemplazar
     liveLink: '#', // Reemplazar
     repoLink: null
   }
